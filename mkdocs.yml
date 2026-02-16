@@ -41,20 +41,20 @@ theme:
 
 plugins:
   - search
-  - blog:
-      blog_toc: true
-      post_readtime_words_per_minute: 250
-      pagination_per_page: 5
-      archive: true
-      archive_name: Archive
-      archive_date_format: MMMM yyyy
-      archive_url_date_format: yyyy/MM
-      archive_pagination_per_page: 10
-      archive_toc: false
-      categories_pagination_per_page: 10
-      categories_toc: false
-  - tags:
-      tags_file: blog/tags.md
+  # - blog:
+  #     blog_toc: true
+  #     post_readtime_words_per_minute: 250
+  #     pagination_per_page: 5
+  #     archive: true
+  #     archive_name: Archive
+  #     archive_date_format: MMMM yyyy
+  #     archive_url_date_format: yyyy/MM
+  #     archive_pagination_per_page: 10
+  #     archive_toc: false
+  #     categories_pagination_per_page: 10
+  #     categories_toc: false
+  # - tags:
+  #     tags_file: blog/tags.md
   - social
   # - offline
 
@@ -124,6 +124,22 @@ nav:
     - lectures/week13.md
     - lectures/week14.md
     # - lectures/week15.md
+  - Homeworks:
+    - homeworks/week1.md
+    - homeworks/week2.md
+    - homeworks/week3.md
+    - homeworks/week4.md
+    - homeworks/week5.md
+    - homeworks/week6.md
+    - homeworks/week7.md
+    - homeworks/week8.md
+    - homeworks/week9.md
+    - homeworks/week10.md
+    - homeworks/week11.md
+    - homeworks/week12.md
+    - homeworks/week13.md
+    - homeworks/week14.md
+    - homeworks/index.md
   - Exams:
     - exams/midterm.md
     - exams/final.md

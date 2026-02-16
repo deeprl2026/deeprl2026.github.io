@@ -29,7 +29,7 @@ This course provides an in-depth introduction to the field of deep reinforcement
 ## Instructor
 
 <div class="grid cards" markdown>
--   ![Instructor Avatar](../assets/images/staff/Mohammad-Hossein-Rohban.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Mohammad-Hossein-Rohban.png){align=left width="150"}
     <span class="description">
         <p>**Dr. Mohammad Hossein Rohban**</p>
         <p>Instructor</p>
