@@ -1,5 +1,5 @@
 ---
-description: Welcome to Spring 2025 offering of Deep Reinforcement Learning course at Sharif University of Technology! We are excited to have you join us on this journey into the world of deep reinforcement learning.
+description: Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif University of Technology! We are excited to have you join us on this journey into the world of deep reinforcement learning.
 hide:
   - feedback
   - navigation
@@ -11,12 +11,11 @@ disable_toc_integrate: true
 
 Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif University of Technology! We are excited to have you join us on this journey into the world of deep reinforcement learning.
 
+> **Previous Course (Spring 2025):** [DeepRLCourse Spring 2025](https://deeprlcourse.github.io/)
+
 ## Course Description
 
 This course provides an in-depth introduction to the field of deep reinforcement learning. Initially, we will explore reinforcement learning conceptually and practically to help you grasp the fundamental concepts. This phase will take place before Nowrouz. After Nowrouz, we will delve deeper into the subject, focusing on advanced topics. The course will cover both classical reinforcement learning and deep reinforcement learning, including interesting topics such as multi-agent RL, offline methods, and meta RL. By the end of the course, you will have a solid understanding of how to apply deep reinforcement learning to solve complex problems in various domains.
-
-> **Previous Course (Spring 2025):** [DeepRLCourse GitHub Repository](https://github.com/DeepRLCourse/DeepRLCourse.github.io)
-
 
 ## Learning Objectives
 
@@ -43,6 +42,7 @@ This course provides an in-depth introduction to the field of deep reinforcement
         </p>
     </span>
 </div>
+
 
 ## Schedule
 
@@ -100,8 +100,6 @@ This course provides an in-depth introduction to the field of deep reinforcement
 
         For the 6th homework and the last homeworks (12th, 13th, and 14th), due to the midterm exam and final exam, the solutions will be released on 1404/01/20 [<span style="direction: rtl;font-family: Vazirmatn;">۲۰ فروردین</span>] (April 9) and 1404/03/30 [<span style="direction: rtl;font-family: Vazirmatn;">۳۰ خرداد</span>] (June 20), respectively. You have a 3-day hard deadline for the 6th homework and a 5-day hard deadline for the last homeworks.
 
-- **Workshop Classes:** Held for all weeks except weeks 7, 8, 9, and 15. These workshops will present practical implementations of the ideas covered in the lectures of the week. These sessions will be held online on Wednesdays.
-
 - **Lecture Summaries and Quizzes:** Summaries of the previous lecture will be released at 8:00 AM on the day of the next lecture. You must participate in a quiz before the start of the lecture at 1:30 PM. Participation in quizzes will earn you 0.75 bonus points.
 
 - **Exams:** Midterm questions will focus on conceptual understanding, while the final exam will be more theoretical.
@@ -110,11 +108,7 @@ This course provides an in-depth introduction to the field of deep reinforcement
 
 - **Feedback:** Participation in all feedback sessions throughout the course will add up to 0.75 bonus points.
 
-- **Prerequisite:** Prerequisite classes will be held based on demand. A form will be released for each session, and we will decide to hold it based on your responses.
-
 - **Journal Clubs:** Journal clubs will be held weekly throughout the course. Their schedule and details will be announced. Participating in each of them can give you 0.1 bonus points, up to 0.5.
-
-- **Course Calendar:** Office hours, lecture schedules, recitations, workshops, deadlines, and all important events can be found on the course [calendar](/home/calender).
 
 - **Support:** You can ask questions on [Telegram Group](https://t.me/DeepRLGroup) or schedule office hours with a TA on the calender for additional guidance.
 
@@ -349,27 +343,6 @@ Total possible points: 20 + 3 = 23
         </p>
     </span>
 
-<!-- -   ![Instructor Avatar](assets/images/staff/Hamed-Saadati.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Hamed Saadati**</p>
-        <p>Teaching Assistant</p>
-        <p>[hamed.saadati078@gmail.com](mailto:hamed.saadati078@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-github:](https://github.com/hamedsa-78){:target="_blank"}
-        </p>
-    </span> -->
-
-<!-- -   ![Instructor Avatar](assets/images/staff/HamidReza-Akbari.jpg){align=left width="150"}
-    <span class="description">
-        <p>**HamidReza Akbari**</p>
-        <p>Teaching Assistant</p>
-        <p>[hakbari@gmail.com](mailto:hakbari@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-github:](https://github.com/hakbari14){:target="_blank"}
-        [:fontawesome-brands-linkedin-in:](https://linkedin.com/in/hamid-reza-akbari-154257104){:target="_blank"}
-        </p>
-    </span> -->
-
 -   ![Instructor Avatar](assets/images/staff/Hamidreza-Ebrahimpour.jpg){align=left width="150"}
     <span class="description">
         <p>**Hamidreza Ebrahimpour**</p>
@@ -438,18 +411,6 @@ Total possible points: 20 + 3 = 23
         </p>
     </span>
 
-<!-- -   ![Instructor Avatar](assets/images/staff/Mohammad-Narimani.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Mohammad Narimani**</p>
-        <p>Teaching Assistant</p>
-        <p>[mnarimani@sharif.edu](mailto:mnarimani@sharif.edu)</p>
-        <p>
-        [:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=MbhlTDEAAAAJ){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/mnarimani){:target="_blank"}
-        [:fontawesome-brands-linkedin-in:](https://linkedin.com/in/m-narimani){:target="_blank"}
-        </p>
-    </span> -->
-
 -   ![Instructor Avatar](assets/images/staff/MohammadHasan-Abbasi.jpg){align=left width="150"}
     <span class="description">
         <p>**MohammadHasan Abbasi**</p>
@@ -503,30 +464,6 @@ Total possible points: 20 + 3 = 23
         [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/reza-ghaderi-7733a5202){:target="_blank"}
         </p>
     </span>
-
-<!-- -   ![Instructor Avatar](assets/images/staff/Saeed-Masoudnia.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Saeed Masoudnia**</p>
-        <p>Teaching Assistant</p>
-        <p>[s.masoudnia@gmail.com](mailto:s.masoudnia@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-x-twitter:](https://x.com/MasoudniaSaeed){:target="_blank"}
-        [:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=X4DHscEAAAAJ&hl=en){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/smsnia){:target="_blank"}
-        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/saeed-masoudnia-45803434){:target="_blank"}
-        </p>
-    </span> -->
-
-<!-- -   ![Instructor Avatar](assets/images/staff/Sara-Karimi.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Sara Karimi**</p>
-        <p>Teaching Assistant</p>
-        <p>[sarraah.karimi@gmail.com](mailto:sarraah.karimi@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-github:](https://github.com/sarrkar){:target="_blank"}
-        [:material-web:](https://sarrkar.github.io){:target="_blank"}
-        </p>
-    </span> -->
 </div>
 
 ## Acknowledgements

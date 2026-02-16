@@ -1,8 +1,8 @@
 site_name: Deep RL Course
-site_url: https://deeprl2026.github.io
+site_url: https://DeepRL2026.github.io
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   font:
     text: Ubuntu
     code: Red Hat Mono
@@ -41,20 +41,20 @@ theme:
 
 plugins:
   - search
-  # - blog:
-  #     blog_toc: true
-  #     post_readtime_words_per_minute: 250
-  #     pagination_per_page: 5
-  #     archive: true
-  #     archive_name: Archive
-  #     archive_date_format: MMMM yyyy
-  #     archive_url_date_format: yyyy/MM
-  #     archive_pagination_per_page: 10
-  #     archive_toc: false
-  #     categories_pagination_per_page: 10
-  #     categories_toc: false
-  # - tags:
-  #     tags_file: blog/tags.md
+  - blog:
+      blog_toc: true
+      post_readtime_words_per_minute: 250
+      pagination_per_page: 5
+      archive: true
+      archive_name: Archive
+      archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+      archive_pagination_per_page: 10
+      archive_toc: false
+      categories_pagination_per_page: 10
+      categories_toc: false
+  - tags:
+      tags_file: blog/tags.md
   - social
   # - offline
 
@@ -62,15 +62,15 @@ extra:
   generator: false
   social:
     - icon: material/email-outline
-      link: mailto:deeprl2026@gmail.com
+      link: mailto:DeepRL2026@gmail.com
     - icon: fontawesome/brands/github
-      link: https://github.com/deeprl2026
+      link: https://github.com/DeepRL2026
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@deeprl2026
+      link: https://www.youtube.com/@DeepRL2026
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/deeprl2026
+      link: https://x.com/DeepRL2026
     - icon: fontawesome/brands/telegram
-      link: https://t.me/deeprl2026
+      link: https://t.me/DeepRL2026
   analytics:
     provider: google
     property: G-Q1YT8K39WE
@@ -108,17 +108,6 @@ nav:
       - course_notes/advanced.md
       - course_notes/model-based.md
       - course_notes/bandits.md
-    # - RL Methods in Depth:
-    #   - course_notes/intro-to-phase2.md
-    #   - course_notes/value-based2.md
-    #   - course_notes/policy-based2.md
-    #   - course_notes/exploration.md
-    #   - course_notes/imitation.md
-    #   - course_notes/inverse.md
-    #   - course_notes/offline.md
-    #   - course_notes/multi-agent.md
-    #   - course_notes/hierarchical.md
-    #   - course_notes/meta.md
   - Lectures:
     - lectures/week1.md
     - lectures/week2.md
@@ -135,82 +124,6 @@ nav:
     - lectures/week13.md
     - lectures/week14.md
     # - lectures/week15.md
-  # - Guests:
-  #   - guests/richard_sutton.md
-  #   - guests/chris_watkins.md
-  #   - guests/michael_littman.md
-  #   - guests/peter_stone.md
-  #   - guests/jakob_foerster.md
-  #   - guests/nan_jiang.md
-  #   - guests/benjamin_eysenbach.md
-  #   - guests/ian_osband.md
-  #   - guests/jeff_clune.md
-  #   - guests/peter_dayan.md
-  #   - guests/ida_momennejad.md
-  #   - guests/abhishek_gupta.md
-  #   - guests/benjamin_van_roy.md
-  #   - guests/wolfram_schultz.md
-  #   - guests/mark_ho.md
-  #   - guests/pascal_poupart.md
-  #   - guests/peter_norvig.md
-  #   - guests/karl_friston.md
-  #   - guests/amy_zhang.md
-  #   - guests/adam_white.md
-  #   - guests/anne_collins.md
-  #   - guests/luis_serrano.md
-  #   - guests/martha_white.md
-  #   - guests/christopher_amato.md
-  #   - guests/marlos_machado.md
-  # - Recitations:
-  #   - recitations/week1.md
-  #   - recitations/week2.md
-  #   - recitations/week3.md
-  #   - recitations/week4.md
-  #   - recitations/week5.md
-  #   - recitations/week6.md
-  #   - recitations/week7.md
-  #   - recitations/week8.md
-  #   - recitations/week9.md
-    # - recitations/week10.md
-    # - recitations/week11.md
-    # - recitations/week12.md
-    # - recitations/week13.md
-    # - recitations/week14.md
-  # - Workshops:
-  #   - workshops/week1.md
-  #   - workshops/week2.md
-  #   - workshops/week3.md
-  #   - workshops/week4.md
-  #   - workshops/week5.md
-  #   - workshops/week6.md
-    # - workshops/week10.md
-    # - workshops/week11.md
-    # - workshops/week12.md
-    # - workshops/week13.md
-    # - workshops/week14.md
-  - Homeworks:
-    - homeworks/week1.md
-    - homeworks/week2.md
-    - homeworks/week3.md
-    - homeworks/week4.md
-    - homeworks/week5.md
-    - homeworks/week6.md
-    - homeworks/week7.md
-    - homeworks/week8.md
-    - homeworks/week9.md
-    - homeworks/week10.md
-    - homeworks/week11.md
-    - homeworks/week12.md
-    - homeworks/week13.md
-    - homeworks/week14.md
-    - homeworks/index.md
-  # - Prerequisites:
-  #   - prerequisites/deep_learning.md
-  #   - prerequisites/game_theory.md
-  #   - prerequisites/linear_algebra.md
-  #   - prerequisites/numerical_optimization.md
-  #   - prerequisites/information_theory.md
-  #   - prerequisites/stochastic_processes.md
   - Exams:
     - exams/midterm.md
     - exams/final.md
@@ -225,9 +138,6 @@ nav:
       - poster_session/sp24.md
   - Resources:
     - resources/index.md
-  # - Blog:
-  #   - blog/index.md
-  #   - Tags: blog/tags.md
 
 extra_css:
   - stylesheets/extra.css
