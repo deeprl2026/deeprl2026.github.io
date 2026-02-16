@@ -1,5 +1,0 @@
----
-title: Recitations
----
-
-# Introduction
