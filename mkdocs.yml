@@ -1,0 +1,273 @@
+site_name: Deep RL Course
+site_url: https://deeprl2026.github.io
+theme:
+  name: material
+  # custom_dir: overrides
+  font:
+    text: Ubuntu
+    code: Red Hat Mono
+  logo: assets/logo.png
+  favicon: assets/favicon/favicon.ico
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: black
+      accent: red
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+      primary: black
+      accent: red
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.integrate
+    # - navigation.indexes
+
+plugins:
+  - search
+  # - blog:
+  #     blog_toc: true
+  #     post_readtime_words_per_minute: 250
+  #     pagination_per_page: 5
+  #     archive: true
+  #     archive_name: Archive
+  #     archive_date_format: MMMM yyyy
+  #     archive_url_date_format: yyyy/MM
+  #     archive_pagination_per_page: 10
+  #     archive_toc: false
+  #     categories_pagination_per_page: 10
+  #     categories_toc: false
+  # - tags:
+  #     tags_file: blog/tags.md
+  - social
+  # - offline
+
+extra:
+  generator: false
+  social:
+    - icon: material/email-outline
+      link: mailto:deeprl2026@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/deeprl2026
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@deeprl2026
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/deeprl2026
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/deeprl2026
+  analytics:
+    provider: google
+    property: G-Q1YT8K39WE
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+  disable_toc_integrate_paths:
+    - course_notes
+    - prerequisites
+
+
+copyright: Made with ❤️ in Robust and Interpretable Machine Learning Lab
+
+nav:
+  - Home:
+    - index.md
+  - Calendar:
+    - home/calender.md
+  - Course Notes:
+    - Conceptual Overview of RL:
+      - course_notes/intro-to-rl.md
+      - course_notes/value-based.md
+      - course_notes/policy-based.md
+      - course_notes/advanced.md
+      - course_notes/model-based.md
+      - course_notes/bandits.md
+    # - RL Methods in Depth:
+    #   - course_notes/intro-to-phase2.md
+    #   - course_notes/value-based2.md
+    #   - course_notes/policy-based2.md
+    #   - course_notes/exploration.md
+    #   - course_notes/imitation.md
+    #   - course_notes/inverse.md
+    #   - course_notes/offline.md
+    #   - course_notes/multi-agent.md
+    #   - course_notes/hierarchical.md
+    #   - course_notes/meta.md
+  - Lectures:
+    - lectures/week1.md
+    - lectures/week2.md
+    - lectures/week3.md
+    - lectures/week4.md
+    - lectures/week5.md
+    - lectures/week6.md
+    - lectures/week7.md
+    - lectures/week8.md
+    - lectures/week9.md
+    - lectures/week10.md
+    - lectures/week11.md
+    - lectures/week12.md
+    - lectures/week13.md
+    - lectures/week14.md
+    # - lectures/week15.md
+  # - Guests:
+  #   - guests/richard_sutton.md
+  #   - guests/chris_watkins.md
+  #   - guests/michael_littman.md
+  #   - guests/peter_stone.md
+  #   - guests/jakob_foerster.md
+  #   - guests/nan_jiang.md
+  #   - guests/benjamin_eysenbach.md
+  #   - guests/ian_osband.md
+  #   - guests/jeff_clune.md
+  #   - guests/peter_dayan.md
+  #   - guests/ida_momennejad.md
+  #   - guests/abhishek_gupta.md
+  #   - guests/benjamin_van_roy.md
+  #   - guests/wolfram_schultz.md
+  #   - guests/mark_ho.md
+  #   - guests/pascal_poupart.md
+  #   - guests/peter_norvig.md
+  #   - guests/karl_friston.md
+  #   - guests/amy_zhang.md
+  #   - guests/adam_white.md
+  #   - guests/anne_collins.md
+  #   - guests/luis_serrano.md
+  #   - guests/martha_white.md
+  #   - guests/christopher_amato.md
+  #   - guests/marlos_machado.md
+  # - Recitations:
+  #   - recitations/week1.md
+  #   - recitations/week2.md
+  #   - recitations/week3.md
+  #   - recitations/week4.md
+  #   - recitations/week5.md
+  #   - recitations/week6.md
+  #   - recitations/week7.md
+  #   - recitations/week8.md
+  #   - recitations/week9.md
+    # - recitations/week10.md
+    # - recitations/week11.md
+    # - recitations/week12.md
+    # - recitations/week13.md
+    # - recitations/week14.md
+  # - Workshops:
+  #   - workshops/week1.md
+  #   - workshops/week2.md
+  #   - workshops/week3.md
+  #   - workshops/week4.md
+  #   - workshops/week5.md
+  #   - workshops/week6.md
+    # - workshops/week10.md
+    # - workshops/week11.md
+    # - workshops/week12.md
+    # - workshops/week13.md
+    # - workshops/week14.md
+  - Homeworks:
+    - homeworks/week1.md
+    - homeworks/week2.md
+    - homeworks/week3.md
+    - homeworks/week4.md
+    - homeworks/week5.md
+    - homeworks/week6.md
+    - homeworks/week7.md
+    - homeworks/week8.md
+    - homeworks/week9.md
+    - homeworks/week10.md
+    - homeworks/week11.md
+    - homeworks/week12.md
+    - homeworks/week13.md
+    - homeworks/week14.md
+    - homeworks/index.md
+  # - Prerequisites:
+  #   - prerequisites/deep_learning.md
+  #   - prerequisites/game_theory.md
+  #   - prerequisites/linear_algebra.md
+  #   - prerequisites/numerical_optimization.md
+  #   - prerequisites/information_theory.md
+  #   - prerequisites/stochastic_processes.md
+  - Exams:
+    - exams/midterm.md
+    - exams/final.md
+    - exams/index.md
+  # - Journal Club:
+  #   - journal_club/index.md
+  - Poster Session:
+    - Spring 2025:
+      - poster_session/sp25.md
+      - poster_session/index.md
+    - Spring 2024:
+      - poster_session/sp24.md
+  - Resources:
+    - resources/index.md
+  # - Blog:
+  #   - blog/index.md
+  #   - Tags: blog/tags.md
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/vazirmatn.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - md_in_html
+  - admonition
+  - pymdownx.blocks.caption
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - abbr
+  - extra
+  - admonition
+  - pymdownx.details
