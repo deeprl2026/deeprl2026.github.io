@@ -8,7 +8,7 @@
         height="560">
 </object>
 
-[Download Exam](/assets/exams/DRL_Midterm_Exam.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Exam](../assets/exams/DRL_Midterm_Exam.pdf){:target="_blank" .md-button .md-button--primary }
 
 ## Midterm QA
 
