@@ -127,18 +127,6 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
 ## Teaching Assistants
 
 <div class="grid cards" markdown>
--   ![Instructor Avatar](assets/images/staff/Milad-Hosseini.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Milad Hosseini**</p>
-        <p>Teaching Assistant</p>
-    </span>
-
--   ![Instructor Avatar](assets/images/staff/Alireza-Nobakht.jpg){align=left width="150"}
-    <span class="description">
-        <p>**Alireza Nobakht**</p>
-        <p>Teaching Assistant</p>
-    </span>
-
 -   ![Instructor Avatar](assets/images/staff/Parsa-Ghezelbash.jpg){align=left width="150"}
     <span class="description">
         <p>**Parsa Ghezelbash**</p>
@@ -211,13 +199,25 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
         <p>Teaching Assistant</p>
     </span>
 
+-   ![Instructor Avatar](assets/images/staff/Milad-Hosseini.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Milad Hosseini**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/Alireza-Nobakht.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Alireza Nobakht**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
 -   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
     <span class="description">
         <p>**Amir Homayoun Sharifi-zadeh**</p>
         <p>Teaching Assistant</p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Arshia-izadyari.jpg){align=left width="150"}
     <span class="description">
         <p>**Arshia Izadyari**</p>
         <p>Teaching Assistant</p>
