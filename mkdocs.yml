@@ -113,12 +113,20 @@ nav:
     # - lectures/week13.md
     # - lectures/week14.md
     # - lectures/week15.md
-  - TA_Sessions:
+  - TA Sessions:
     - index.md
+
+  - Homeworks:
+    - index.md
+
+  - Projects:
+    - index.md
+
   - Exams:
     # - exams/midterm.md
     # - exams/final.md
     - exams/index.md
+
   - Resources:
     - resources/index.md
 

@@ -15,7 +15,7 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 
 ## Course Description
 
-This course provides an in-depth introduction to the field of deep reinforcement learning. Initially, we will explore reinforcement learning conceptually and practically to help you grasp the fundamental concepts. This phase will take place before Nowrouz. After Nowrouz, we will delve deeper into the subject, focusing on advanced topics. The course will cover both classical reinforcement learning and deep reinforcement learning, including interesting topics such as multi-agent RL, offline methods, and meta RL. By the end of the course, you will have a solid understanding of how to apply deep reinforcement learning to solve complex problems in various domains.
+This course offers a comprehensive introduction to reinforcement learning, covering both foundational and advanced topics. Core methods include value-based approaches, policy-based methods, and actor–critic algorithms, with dedicated sessions reinforcing these concepts. The course also covers model-based reinforcement learning and multi-armed bandits, alongside theoretical foundations of RL. Advanced topics include exploration methods, imitation and inverse reinforcement learning, offline reinforcement learning, and meta reinforcement learning. Assessment consists of 8 homework assignments, two midterm exams, and two course projects, emphasizing both theoretical understanding and practical implementation.
 
 ## Learning Objectives
 
@@ -46,36 +46,36 @@ This course provides an in-depth introduction to the field of deep reinforcement
 
 ## Schedule
 
-| <div style="width:100px;">Session #</div> | <div style="width:250px;">Topic of the Session</div> | <div style="width:110px;">Date</div> | <div style="width:110px;">Related Homework</div> | <div style="width:110px;">Related Project</div> | <div style="width:100px;">Related Exam</div> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Session 1 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">3 اسفند<br>(Feb 22)</div> | HW 1 | Project 1 | Midterm 1 |
-| Session 2 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">5 اسفند<br>(Feb 24)</div> | HW 1 | Project 1 | Midterm 1 |
-| Session 3 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;">10 اسفند<br>(March 1)</div> | HW 1 | Project 1 | Midterm 1 |
-| Session 4 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;">12 اسفند<br>(March 3)</div> | HW 1 | Project 1 | Midterm 1 |
-| Session 5 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">17 اسفند<br>(March 8)</div> | HW 2 | Project 1 | Midterm 1 |
-| Session 6 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">19 اسفند<br>(March 10)</div> | HW 2 | Project 1 | Midterm 1 |
-| Session 7 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">24 اسفند<br>(March 15)</div> | HW 3 | Project 1 | Midterm 1 |
-| Session 8 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">26 اسفند<br>(March 17)</div> | HW 3 | Project 1 | Midterm 1 |
-| Session 9 | Dedicated to Previous Topics | HW 3 | <div style="direction: rtl;font-family: Vazirmatn;">16 فروردین<br>(April 5)</div> | Project 1 | Midterm 1 |
-| Session 10 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">18 فروردین<br>(April 7)</div> | HW 4 | Project 2 | Midterm 2 |
-| Session 11 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">23 فروردین<br>(April 12)</div> | HW 4 | Project 2 | Midterm 2 |
-| Session 12 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">30 فروردین<br>(April 19)</div> | HW 4 | Project 2 | Midterm 2 |
-| Session 13 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">1 اردیبهشت<br>(April 21)</div> | HW 4 | Project 2 | Midterm 2 |
-| Session 14 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(April 26)</div> | HW 5 | Project 2 | Midterm 2 |
-| Session 15 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">8 اردیبهشت<br>(April 28)</div> | HW 5 | Project 2 | Midterm 2 |
-| Session 16 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">13 اردیبهشت<br>(May 3)</div> | HW 6 | Project 2 | Midterm 2 |
-| Session 17 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(May 5)</div> | HW 6 | Project 2 | Midterm 2 |
-| Session 18 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">20 اردیبهشت<br>(May 10)</div> | HW 7 | - | Final |
-| Session 19 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">22 اردیبهشت<br>(May 12)</div> | HW 7 | - | Final |
-| Session 20 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | HW 8 | - | Final |
-| Session 21 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | HW 8 | - | Final |
-| Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | HW 8 | - | Final |
-| Session 23 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | HW 9 | - | Final |
-| Session 24 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | HW 9 | - | Final |
-| Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 2)</div> | HW 9 | - | Final |
-| Session 26 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | HW 10 | - | Final |
-| Session 27 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(June 9)</div> | HW 10 | - | Final |
-| Session 28 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(June 14)</div> | HW 10 | - | Final |
+| <div style="width:100px;">Session #</div> | <div style="width:250px;">Topic of the Session</div> | <div style="width:110px;">Date</div> | <div style="width:220px;">Deadlines / Deliverables</div> |
+| :-: | :-: | :-: | :-: |
+| Session 1 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">3 اسفند<br>(Feb 22)</div> | - |
+| Session 2 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">5 اسفند<br>(Feb 24)</div> | - |
+| Session 3 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;">10 اسفند<br>(March 1)</div> | - |
+| Session 4 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;">12 اسفند<br>(March 3)</div> | HW 1<br>TA Session 1 |
+| Session 5 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">17 اسفند<br>(March 8)</div> | Project 1 Release |
+| Session 6 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">19 اسفند<br>(March 10)</div> | HW 2<br>TA Session 2 |
+| Session 7 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">24 اسفند<br>(March 15)</div> | - |
+| Session 8 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">26 اسفند<br>(March 17)</div> | TA Session 3 |
+| Session 9 | Dedicated to Previous Topics | <div style="direction: rtl;font-family: Vazirmatn;">16 فروردین<br>(April 5)</div> | HW 3<br>Midterm 1 |
+| Session 10 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">18 فروردین<br>(April 7)</div> | - |
+| Session 11 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">23 فروردین<br>(April 12)</div> | - |
+| Session 12 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">30 فروردین<br>(April 19)</div> | - |
+| Session 13 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">1 اردیبهشت<br>(April 21)</div> | HW 4<br>Project 2 Release |
+| Session 14 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(April 26)</div> | - |
+| Session 15 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">8 اردیبهشت<br>(April 28)</div> | HW 5 |
+| Session 16 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">13 اردیبهشت<br>(May 3)</div> | - |
+| Session 17 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(May 5)</div> | Midterm 2 |
+| Session 18 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">20 اردیبهشت<br>(May 10)</div> | - |
+| Session 19 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">22 اردیبهشت<br>(May 12)</div> | HW 6 |
+| Session 20 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | - |
+| Session 21 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | - |
+| Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | - |
+| Session 23 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | HW 9 |
+| Session 24 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | - |
+| Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 2)</div> | HW 7 |
+| Session 26 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | - |
+| Session 27 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(June 9)</div> | - |
+| Session 28 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(June 14)</div> | HW8<br>Final Exam |
 
 ## Logistics & Policies 
 
@@ -89,19 +89,19 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
 
 ### Main Components
 
-- **Homeworks:** Gradual assessment through regular assignments
-- **Midterm:** 2 Conceptual understanding tested mid-course
-- **Final:** Theoretical knowledge evaluated at the end of the course
-- **Project:** 2 Practical Project
+- **Homeworks:** 8 assignments for continuous assessment
+- **Midterms:** 2 exams focused on conceptual understanding
+- **Final:** Comprehensive theoretical exam at the end of the course
+- **Projects:** 2 practical projects applying course concepts
 
 | Component      | Points | Date       | Details |
 | -------------- | ------ | ------------------ | ---|
-| Homeworks            | 7      | - | 10 HWs $\times \approx$ 0.7 each
-| Midterm_1        | 3      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | @ ??:00 AM |
-| Midterm_2        | 3      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | @ ??:00 AM |
+| Homeworks            | 7      | - | 8 HWs $\times \approx$ 0.875 each
+| Midterm 1        | 3      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | @ ??:00 AM |
+| Midterm 2        | 3      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | @ ??:00 AM |
 | Final          | 6      | <div style="direction: rtl;font-family: Vazirmatn;">14 تیر<br>(July 5)</div>   | @ 14:30 PM |
-| Project_1        | 1.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
-| Project_2        | 2.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
+| Project 1        | 1.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
+| Project 2        | 2.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
 
 
 ## Head Assistants
@@ -120,6 +120,7 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
     <span class="description">
         <p>**Mohammad Pouya Toroghi**</p>
         <p>Head TA</p>
+        <p>[pouyatoroghi@gmail.com](mailto:pouyatoroghi@gmail.com)</p>
     </span>
 </div>
 
@@ -141,6 +142,24 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
 -   ![Instructor Avatar](assets/images/staff/Parsa-Ghezelbash.jpg){align=left width="150"}
     <span class="description">
         <p>**Parsa Ghezelbash**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/Kooshan.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Amir Kooshan Fattah**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Mohammad Amin Abbasfar**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Arian Komaei**</p>
         <p>Teaching Assistant</p>
     </span>
 
@@ -174,9 +193,33 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
         <p>Teaching Assistant</p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Kooshan.jpg){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
     <span class="description">
-        <p>**Amir Kooshan Fattah**</p>
+        <p>**Amir Malekhosseini**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Ali Soltani**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Mahshid Dehghani**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Amir Homayoun Sharifi-zadeh**</p>
+        <p>Teaching Assistant</p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Arshia Izadyari**</p>
         <p>Teaching Assistant</p>
     </span>
 
