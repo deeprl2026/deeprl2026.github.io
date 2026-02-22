@@ -13,10 +13,6 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 
 > **Previous Course (Spring 2025):** [DeepRLCourse Spring 2025](https://deeprlcourse.github.io/)
 
-## Course Description
-
-This course offers a comprehensive introduction to reinforcement learning, covering both foundational and advanced topics. Core methods include value-based approaches, policy-based methods, and actor–critic algorithms, with dedicated sessions reinforcing these concepts. The course also covers model-based reinforcement learning and multi-armed bandits, alongside theoretical foundations of RL. Advanced topics include exploration methods, imitation and inverse reinforcement learning, offline reinforcement learning, and meta reinforcement learning. Assessment consists of 8 homework assignments, two midterm exams, and two course projects, emphasizing both theoretical understanding and practical implementation.
-
 ## Learning Objectives
 
 - Understand the fundamentals of reinforcement learning
@@ -82,6 +78,11 @@ This course offers a comprehensive introduction to reinforcement learning, cover
 - **Lectures:** Held on Sundays and Tuesdays from 1:30 PM to 3:00 PM in room 102 of the CE department.
 
 - **TA Sessions:** Coming soon!
+
+### Late Submission Policy
+
+- Each student has **14 total late days** for the course.
+- Up to **3 late days** may be used per assignment.
 
 ## Grading
 
