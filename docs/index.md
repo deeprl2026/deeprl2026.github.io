@@ -66,7 +66,7 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 | Session 20 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | - |
 | Session 21 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | - |
 | Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | - |
-| Session 23 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | HW 9 |
+| Session 23 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | - |
 | Session 24 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | - |
 | Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 2)</div> | HW 7 |
 | Session 26 | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | - |
