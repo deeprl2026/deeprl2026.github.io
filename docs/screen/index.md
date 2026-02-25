@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Screen Records
 ---
 
 > **Session 1:** [Introduction to RL- part 1](https://www.youtube.com/watch?v=v9tEFlTfdeI)
