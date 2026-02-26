@@ -97,7 +97,6 @@ nav:
     #   - course_notes/model-based.md
     #   - course_notes/bandits.md
   - Lectures:
-    - lectures/index.md
     - lectures/lecture1.md
     - lectures/lecture2.md
     # - lectures/week3.md
@@ -176,6 +175,7 @@ markdown_extensions:
   - admonition
 
   - pymdownx.details
+
 
 
 
