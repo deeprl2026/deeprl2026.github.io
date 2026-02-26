@@ -3,7 +3,7 @@ comments: True
 description: This page contains the lecture materials for Week 1 of the Deep Reinforcement Learning course, including video recordings, slides, and summaries.
 ---
 
-## Lecture 1: Introduction to RL
+## Lecture 2: Introduction to RL
 
 ### Screen Record
 
