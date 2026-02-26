@@ -98,8 +98,8 @@ nav:
     #   - course_notes/bandits.md
   - Lectures:
     - index.md
-    # - lectures/week1.md
-    # - lectures/week2.md
+    - lectures/lecture1.md
+    - lectures/lecture2.md
     # - lectures/week3.md
     # - lectures/week4.md
     # - lectures/week5.md
@@ -174,4 +174,5 @@ markdown_extensions:
   - abbr
   - extra
   - admonition
+
   - pymdownx.details
