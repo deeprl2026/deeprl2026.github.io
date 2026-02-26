@@ -98,9 +98,9 @@ nav:
     #   - course_notes/bandits.md
   - Lectures:
     - index.md
-    - lectures/lecture1.md
-    - lectures/lecture2.md
-    # - lectures/week3.md
+    # - lectures/lecture1.md
+    # - lectures/lecture2.md
+    - lectures/week3.md
     # - lectures/week4.md
     # - lectures/week5.md
     # - lectures/week6.md
@@ -176,4 +176,5 @@ markdown_extensions:
   - admonition
 
   - pymdownx.details
+
 
