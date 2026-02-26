@@ -116,8 +116,8 @@ nav:
   - TA Sessions:
     - index.md
 
-  - Screen Records:
-    - screen/index.md
+  # - Screen Records:
+  #   - screen/index.md
 
   - Homeworks:
     - index.md
@@ -176,3 +176,4 @@ markdown_extensions:
   - admonition
 
   - pymdownx.details
+
