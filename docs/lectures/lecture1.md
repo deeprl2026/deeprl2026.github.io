@@ -12,7 +12,7 @@ description: This page contains the lecture materials for Week 1 of the Deep Rei
 ### Lecture Slides
 
 <object class="pdf" 
-        data="/assets/lectures/slides/Lecture_1.pdf"
+        data="/assets/lectures/slides/session1.pdf"
         width="996"
         height="560">
 </object>
