@@ -7,5 +7,27 @@ description: This page contains the lecture materials for Week 1 of the Deep Rei
 
 ### Screen Record
 
-<iframe width="996" height="560" src="https://www.aparat.com/v/jjhs8ih?playlist=24918238" title="Aparat video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[link](https://www.aparat.com/v/jjhs8ih)
 
+<iframe width="996" height="560" src="https://static.cdn.asset.aparat.com/avt/70620970_15s.mp4" title="Aparat video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Lecture Slides
+
+<object class="pdf" 
+        data="/docs/assets/lectures/slides/Session13_14.pdf"
+        width="996"
+        height="560">
+</object>
+        
+[Download Slides](/docs/assets/lectures/slides/Session13_14.pdf){:target="_blank" .md-button .md-button--primary }
+
+
+### Lecture annot
+
+<object class="pdf" 
+        data="/docs/assets/lectures/slides/Session11_12_annot.pdf"
+        width="996"
+        height="560">
+</object>
+        
+[Download Slides](/docs/assets/lectures/slides/Session13_14_annot.pdf){:target="_blank" .md-button .md-button--primary }

@@ -114,21 +114,17 @@ nav:
     - lectures/lecture15.md
     - lectures/lecture16.md
     - lectures/lecture17.md
-  - TA Sessions:
-    - index.md
 
-  # - Screen Records:
-  #   - screen/index.md
+  - TA Sessions:
+    - TA_Sessions/index.md
 
   - Homeworks:
-    - index.md
+    - homeworks/index.md
 
   - Projects:
-    - index.md
+    - Projects/index.md
 
   - Exams:
-    # - exams/midterm.md
-    # - exams/final.md
     - exams/index.md
 
   - Resources:
