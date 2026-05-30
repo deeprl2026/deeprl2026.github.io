@@ -9,36 +9,36 @@ description: This page contains the lecture materials for Week 1 of the Deep Rei
 
 [link](https://www.aparat.com/v/tmc0m31)
 
-<iframe width="996" height="560" src="https://static.cdn.asset.aparat.com/avt/69541745_15s.mp4" title="Aparat video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/tmc0m31/vt/frame?titleShow=true&muted=true"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 ### Lecture Slides
 
 <object class="pdf" 
-        data="/docs/assets/lectures/slides/Session5.pdf"
+        data="../assets/lectures/slides/Session5.pdf"
         width="996"
         height="560">
 </object>
         
-[Download Slides](/docs/assets/lectures/slides/Session5.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](../assets/lectures/slides/Session5.pdf){:target="_blank" .md-button .md-button--primary }
 
 
 ### Lecture annot
 
 <object class="pdf" 
-        data="/docs/assets/lectures/slides/Session5_annot.pdf"
+        data="../assets/lectures/slides/Session5_annot.pdf"
         width="996"
         height="560">
 </object>
         
-[Download Slides](/docs/assets/lectures/slides/Session5_annot.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](../assets/lectures/slides/Session5_annot.pdf){:target="_blank" .md-button .md-button--primary }
 
 
 ### Paper Explained
 
 <object class="pdf" 
-        data="/docs/assets/lectures/slides/Session5_paper.pdf"
+        data="../assets/lectures/slides/Session5_paper.pdf"
         width="996"
         height="560">
 </object>
         
-[Download Slides](/docs/assets/lectures/slides/Session5_paper.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](../assets/lectures/slides/Session5_paper.pdf){:target="_blank" .md-button .md-button--primary }

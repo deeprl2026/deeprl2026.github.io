@@ -46,33 +46,33 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 | :-: | :-: | :-: | :-: |
 | Session 1 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">3 اسفند<br>(Feb 22)</div> | - |
 | Session 2 | Introduction to RL | <div style="direction: rtl;font-family: Vazirmatn;">5 اسفند<br>(Feb 24)</div> | - |
-| Session 3 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br>(March 1)</div> | - |
-| Session 4 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br>(March 3)</div> | - |
-| Session 5 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br>(March 8)</div> | - |
-| Session 6 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br>(March 10)</div> | - |
-| Session 7 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br>(March 15)</div> | - |
-| Session 8 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(March 17)</div> | - |
-| Session 9 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">8 اردیبهشت<br>(April 5)</div> | Policy Based TA Session/HW2 Release |
-| Session 10 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">13 اردیبهشت<br>(April 7)</div> | - |
-| Session 11 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(April 12)</div> | Actor Critic TA Session |
-| Session 12 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">20 اردیبهشت<br>(April 19)</div> | - |
-| Session 13 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">22 اردیبهشت<br>(April 21)</div> | - |
-| Session 14 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(April 26)</div> | - |
-| Session 15 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(April 28)</div> | - |
-| Session 16 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 3)</div> | - |
-| Session 17 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 5)</div> | MAB TA Session |
-| Session 18 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 10)</div> | - |
-| Session 19 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(May 12)</div> | - |
-| Session 20 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(May 17)</div> | - |
-| Session 21 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(May 19)</div> | Midterm |
-| Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(May 24)</div> | - |
-| Session 23 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">26 خرداد<br>(May 26)</div> | - |
-| Session 24 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">31 خرداد<br>(May 31)</div> | - |
-| Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">2 تیر<br>(June 2)</div> | - |
-| Session 26 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">7 تیر<br>(June 7)</div> | - |
-| Session 27 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">9 تیر<br>(June 9)</div> | - |
-| Session 28 (Make-up 1) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">14 تیر<br>(June 14)</div> | - |
-| Session 29 (Make-up 2) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">16 تیر<br>(June 14)</div> | Final Exam |
+| Session 3 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
+| Session 4 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
+| Session 5 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
+| Session 6 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
+| Session 7 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
+| Session 8 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(March 26)</div> | - |
+| Session 9 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">8 اردیبهشت<br>(April 28)</div> | Policy Based TA Session/HW2 Release |
+| Session 10 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">13 اردیبهشت<br>(May 3)</div> | - |
+| Session 11 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(May 5)</div> | Actor Critic TA Session |
+| Session 12 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">20 اردیبهشت<br>(May 10)</div> | - |
+| Session 13 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">22 اردیبهشت<br>(May 12)</div> | - |
+| Session 14 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | - |
+| Session 15 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | - |
+| Session 16 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | - |
+| Session 17 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | MAB TA Session |
+| Session 18 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | - |
+| Session 19 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 3)</div> | - |
+| Session 20 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | - |
+| Session 21 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(June 9)</div> | Midterm |
+| Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(June 14)</div> | - |
+| Session 23 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">26 خرداد<br>(June 16)</div> | - |
+| Session 24 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">31 خرداد<br>(June 21)</div> | - |
+| Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">2 تیر<br>(June 23)</div> | - |
+| Session 26 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">7 تیر<br>(June 28)</div> | - |
+| Session 27 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">9 تیر<br>(June 30)</div> | - |
+| Session 28 (Make-up 1) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">14 تیر<br>(July 5)</div> | - |
+| Session 29 (Make-up 2) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">16 تیر<br>(July 8)</div> | Final Exam |
 
 ## Logistics & Policies 
 
@@ -100,7 +100,7 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
 | -------------- | ------ | ------------------ | ---|
 | Homeworks            | 8.5      | - | 8 HWs $\times 1 each + 0.5
 | Midterm        | 5      | <div style="direction: rtl;font-family: Vazirmatn;">22 خرداد<br>June 12</div> | @ ??:00 AM |
-| Final          | 7      | <div style="direction: rtl;font-family: Vazirmatn;">14 تیر<br>July 5</div>   | @ 14:30 PM |
+| Final          | 7      | <div style="direction: rtl;font-family: Vazirmatn;">28 تیر<br>July 19</div>   | @ 14:30 PM |
 | Project        | 2.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
 | Total        | 23      | - | - |
 
