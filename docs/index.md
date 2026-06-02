@@ -1,5 +1,3 @@
-> **New: ** [Video Lecture 18](/docs/lectures/lecture18.md) **!**
-
 ---
 description: Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif University of Technology! We are excited to have you join us on this journey into the world of deep reinforcement learning.
 hide:
@@ -8,6 +6,8 @@ hide:
 toc_title: Deep RL Course
 disable_toc_integrate: true
 ---
+
+> **New:** [Video Lecture 18](https://deeprl2026.github.io/lectures/lecture18/){:target="_blank"} **!**
 
 # Welcome
 
