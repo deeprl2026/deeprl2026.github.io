@@ -1,3 +1,5 @@
+> **New: ** [Video Lecture 18](/docs/lectures/lecture18.md) **!**
+
 ---
 description: Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif University of Technology! We are excited to have you join us on this journey into the world of deep reinforcement learning.
 hide:
