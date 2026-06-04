@@ -89,25 +89,10 @@ nav:
     - index.md
     
   - Lectures:
-    - lectures/lecture1.md
-    - lectures/lecture2.md
-    - lectures/lecture3.md
-    - lectures/lecture4.md
-    - lectures/lecture5.md
-    - lectures/lecture6.md
-    - lectures/lecture7.md
-    - lectures/lecture8.md
-    - lectures/lecture9.md
-    - lectures/lecture10.md
-    - lectures/lecture11.md
-    - lectures/lecture12.md
-    - lectures/lecture13.md
-    - lectures/lecture14.md
-    - lectures/lecture15.md
-    - lectures/lecture16.md
-    - lectures/lecture17.md
-    - lectures/lecture18.md
-    - lectures/lecture19.md
+    - lectures/index.md
+
+  - Slides:
+    -slides/index.md
 
   - TA Sessions:
     - TA_Sessions/index.md
