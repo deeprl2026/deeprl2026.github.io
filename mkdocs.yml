@@ -87,15 +87,7 @@ copyright: Made with ❤️ in Robust and Interpretable Machine Learning Lab
 nav:
   - Home:
     - index.md
-  # - Course Notes:
-  #   - index.md
-    # - Conceptual Overview of RL:
-    #   - course_notes/intro-to-rl.md
-    #   - course_notes/value-based.md
-    #   - course_notes/policy-based.md
-    #   - course_notes/advanced.md
-    #   - course_notes/model-based.md
-    #   - course_notes/bandits.md
+    
   - Lectures:
     - lectures/lecture1.md
     - lectures/lecture2.md
@@ -115,6 +107,7 @@ nav:
     - lectures/lecture16.md
     - lectures/lecture17.md
     - lectures/lecture18.md
+    - lectures/lecture19.md
 
   - TA Sessions:
     - TA_Sessions/index.md
