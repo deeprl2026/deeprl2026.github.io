@@ -92,7 +92,7 @@ nav:
     - lectures/index.md
 
   - Slides:
-    -slides/index.md
+    - slides/index.md
 
   - TA Sessions:
     - TA_Sessions/index.md
