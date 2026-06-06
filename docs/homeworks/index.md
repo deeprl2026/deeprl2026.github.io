@@ -8,7 +8,7 @@ description: This page contains the homework assignments from previous and curre
 | :---------: | :---------: | :---------: |
 | HW1   | [HW1 Problems](../assets/homeworks/DRL-HW1.zip) | {--HW1 Solutions--} |
 | HW2   | [HW2 Problems](../assets/homeworks/DRL_HW2.zip) | {--HW2 Solutions--} |
-| HW3   | [HW3 Problems](../assets/homeworks/DRL-HW3.zip) | {--HW3 Solutions--} |
+| HW3 (Edited)  | [HW3 Problems](../assets/homeworks/DRL_HW3_edited.zip) | {--HW3 Solutions--} |
 | HW4   | [HW4 Problems](../assets/homeworks/DRL_HW4.zip) | {--HW4 Solutions--} |
 
 
