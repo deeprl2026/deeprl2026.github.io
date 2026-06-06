@@ -94,14 +94,14 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
 ### Main Components
 
 - **Homeworks:** Eight homework assignments, each worth 1 point, plus an additional assignment worth 0.5 points.
-- **Midterm:** An online midterm examination followed by additional oral questioning. The material covered includes all topics from the beginning of the course up to and including Model Based RL, including the content presented in the TA sessions.
-- **Final:** A comprehensive final examination primarily covering the material taught after the Model Based RL section. Earlier topics may appear indirectly as prerequisite knowledge, but the exam will directly focus on concepts introduced after that point.
+- **Midterm:** An online midterm examination followed by additional oral questioning. The material covered includes all topics from the beginning of the course up to and including Model Based Methods, including the content presented in the TA sessions.
+- **Final:** A comprehensive final examination primarily covering the material taught after the Model Based Methods section. Earlier topics may appear indirectly as prerequisite knowledge, but the exam will directly focus on concepts introduced after that point.
 - **Project:** A mini research project in Deep Reinforcement Learning (DRL). Further details and guidelines regarding the project will be announced soon.
 
 | Component      | Points | Date       | Details |
 | -------------- | ------ | ------------------ | ---|
 | Homeworks            | 8.5      | - | 8 HWs \* 1 each + 0.5
-| Midterm        | 5      | <div style="direction: rtl;font-family: Vazirmatn;">22 خرداد<br>June 12</div> | @ ??:00 AM |
+| Midterm        | 5      | <div style="direction: rtl;font-family: Vazirmatn;">22 خرداد<br>June 12</div> | @ 09:00 AM |
 | Final          | 7      | <div style="direction: rtl;font-family: Vazirmatn;">28 تیر<br>July 19</div>   | @ 14:30 PM |
 | Project        | 2.5      | <div style="direction: rtl;font-family: Vazirmatn;">؟<br>(?)</div> | - |
 | Total        | 23      | - | - |
