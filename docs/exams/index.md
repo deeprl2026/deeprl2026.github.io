@@ -2,6 +2,12 @@
 comments: True
 description: This page contains the exam materials from previous semesters of the Deep Reinforcement Learning course. You can find links to download quizzes, midterms, and final exams.
 ---
+# Current Semester
+
+| Exam | Download | 
+| --------- | ---- |
+| Midterm   | [Midterm](../assets/exams/DRL_Midterm_2026.pdf) |
+
 
 # Previous Semesters
 
