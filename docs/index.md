@@ -7,7 +7,7 @@ toc_title: Deep RL Course
 disable_toc_integrate: true
 ---
 
-> **New:** [Video Lecture 21 - Tuesday (June 9)](https://deeprl2026.github.io/lectures/lecture21/){:target="_blank"} **!**
+> **New:** [Video Lecture 22 - Tuesday (June 14)](https://deeprl2026.github.io/lectures/lecture22/){:target="_blank"} **!**
 
 # Welcome
 
