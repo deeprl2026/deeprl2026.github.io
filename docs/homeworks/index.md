@@ -10,6 +10,7 @@ description: This page contains the homework assignments from previous and curre
 | HW2   | [HW2 Problems](../assets/homeworks/DRL_HW2.zip) | {--HW2 Solutions--} |
 | HW3 (Edited)  | [HW3 Problems](../assets/homeworks/DRL_HW3_edited.zip) | {--HW3 Solutions--} |
 | HW4   | [HW4 Problems](../assets/homeworks/DRL_HW4.zip) | {--HW4 Solutions--} |
+| HW5   | [HW5 Problems](../assets/homeworks/DRL_HW5.zip) | {--HW5 Solutions--} |
 
 
 # Previous Semesters
