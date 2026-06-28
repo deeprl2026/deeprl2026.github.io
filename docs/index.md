@@ -7,7 +7,7 @@ toc_title: Deep RL Course
 disable_toc_integrate: true
 ---
 
-> **New:** [New Slides](https://deeprl2026.github.io/slides/index/){:target="_blank"} **!**
+> **New:** [New Slides](https://deeprl2026.github.io/slides/){:target="_blank"} **!**
 
 # Welcome
 
