@@ -7,7 +7,7 @@ toc_title: Deep RL Course
 disable_toc_integrate: true
 ---
 
-> **New:** [Video Lecture 24 - Sunday (June 21)](https://deeprl2026.github.io/lectures/lecture24/){:target="_blank"} **!**
+> **New:** [New Slides](https://deeprl2026.github.io/slides/index/){:target="_blank"} **!**
 
 # Welcome
 
@@ -53,7 +53,7 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 | Session 5 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
 | Session 6 | Value Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
 | Session 7 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;"> - <br> - </div> | - |
-| Session 8 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(March 26)</div> | - |
+| Session 8 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">6 اردیبهشت<br>(April 26)</div> | - |
 | Session 9 | Policy Based | <div style="direction: rtl;font-family: Vazirmatn;">8 اردیبهشت<br>(April 28)</div> | Policy Based TA Session/HW2 Release |
 | Session 10 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">13 اردیبهشت<br>(May 3)</div> | - |
 | Session 11 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(May 5)</div> | Actor Critic TA Session |
