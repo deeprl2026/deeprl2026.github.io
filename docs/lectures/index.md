@@ -29,3 +29,5 @@ title: Lectures
 | 23 | [Lecture 23](https://deeprl2026.github.io/lectures/lecture23/){:target="_blank"} |
 | 24 | [Lecture 24](https://deeprl2026.github.io/lectures/lecture24/){:target="_blank"} |
 | 24 | [Lecture 25](https://deeprl2026.github.io/lectures/lecture25/){:target="_blank"} |
+| 24 | [Lecture 26](https://deeprl2026.github.io/lectures/lecture26/){:target="_blank"} |
+| 24 | [Lecture 27](https://deeprl2026.github.io/lectures/lecture27/){:target="_blank"} |
