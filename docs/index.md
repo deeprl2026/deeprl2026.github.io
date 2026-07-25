@@ -59,22 +59,20 @@ Welcome to Spring 2026 offering of Deep Reinforcement Learning course at Sharif 
 | Session 11 | Actor Critic | <div style="direction: rtl;font-family: Vazirmatn;">15 اردیبهشت<br>(May 5)</div> | Actor Critic TA Session |
 | Session 12 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">20 اردیبهشت<br>(May 10)</div> | - |
 | Session 13 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">22 اردیبهشت<br>(May 12)</div> | - |
-| Session 14 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | - |
-| Session 15 | Model Based | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | - |
-| Session 16 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | - |
-| Session 17 | Multi-armed Bandits | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | MAB TA Session |
-| Session 18 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | - |
-| Session 19 | RL Theory | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 3)</div> | - |
-| Session 20 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | - |
-| Session 21 | Exploration Methods | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(June 9)</div> | Midterm |
-| Session 22 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(June 14)</div> | - |
-| Session 23 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">26 خرداد<br>(June 16)</div> | - |
-| Session 24 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">31 خرداد<br>(June 21)</div> | - |
-| Session 25 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">2 تیر<br>(June 23)</div> | - |
-| Session 26 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">7 تیر<br>(June 28)</div> | - |
-| Session 27 | Offline Methods | <div style="direction: rtl;font-family: Vazirmatn;">9 تیر<br>(June 30)</div> | - |
-| Session 28 (Make-up 1) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">14 تیر<br>(July 5)</div> | - |
-| Session 29 (Make-up 2) | Meta RL | <div style="direction: rtl;font-family: Vazirmatn;">16 تیر<br>(July 8)</div> | Final Exam |
+| Session 14 | Multi-Armed Bandit | <div style="direction: rtl;font-family: Vazirmatn;">27 اردیبهشت<br>(May 17)</div> | - |
+| Session 15 | Boundaries of regret | <div style="direction: rtl;font-family: Vazirmatn;">29 اردیبهشت<br>(May 19)</div> | - |
+| Session 16 | Exploration in full RL | <div style="direction: rtl;font-family: Vazirmatn;">3 خرداد<br>(May 24)</div> | - |
+| Session 17 | Exploration in full RL | <div style="direction: rtl;font-family: Vazirmatn;">5 خرداد<br>(May 26)</div> | MAB TA Session |
+| Session 18 | Imitation Learning | <div style="direction: rtl;font-family: Vazirmatn;">10 خرداد<br>(May 31)</div> | - |
+| Session 19 | Imitation and Inverse RL | <div style="direction: rtl;font-family: Vazirmatn;">12 خرداد<br>(June 3)</div> | - |
+| Session 20 | Offline RL | <div style="direction: rtl;font-family: Vazirmatn;">17 خرداد<br>(June 7)</div> | - |
+| Session 21 | Offline RL | <div style="direction: rtl;font-family: Vazirmatn;">19 خرداد<br>(June 9)</div> | Midterm |
+| Session 22 | Meta Learning | <div style="direction: rtl;font-family: Vazirmatn;">24 خرداد<br>(June 14)</div> | - |
+| Session 23 | Meta Learning | <div style="direction: rtl;font-family: Vazirmatn;">26 خرداد<br>(June 16)</div> | - |
+| Session 24 | Multi Agent RL | <div style="direction: rtl;font-family: Vazirmatn;">31 خرداد<br>(June 21)</div> | - |
+| Session 25 | Multi Agent RL | <div style="direction: rtl;font-family: Vazirmatn;">2 تیر<br>(June 23)</div> | - |
+| Session 26 | Multi Agent RL | <div style="direction: rtl;font-family: Vazirmatn;">7 تیر<br>(June 28)</div> | - |
+| Session 27 | Multi Agent RL | <div style="direction: rtl;font-family: Vazirmatn;">9 تیر<br>(June 30)</div> | Final Exam |
 
 ## Logistics & Policies 
 
