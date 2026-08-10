@@ -241,6 +241,12 @@ The grading for the Deep Reinforcement Learning course is structured as follows:
         <p>**SeyedAhmad MousaviAwal**</p>
         <p>Teaching Assistant</p>
     </span>
+
+-   ![Instructor Avatar](assets/images/staff/dummy.jpg){align=left width="150"}
+    <span class="description">
+        <p>**Kimia Fakheri**</p>
+        <p>Teaching Assistant</p>
+    </span>
 </div>
 
 ## Acknowledgements
